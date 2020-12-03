@@ -1,6 +1,7 @@
 ### Привет! 🥳
 ### Меня зовут Владислав.😜
 ### Я занимаюсь разработкой на C++/C#🤯
+### MAIL: MaxronOT@protonmail.com
 
 <!--
 **PavlovPVz/PavlovPVz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
