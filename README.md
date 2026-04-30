@@ -1,14 +1,4 @@
-### Привет! 🥳
-### Меня зовут Владислав.😜
-### Я занимаюсь разработкой на C++/C# 🤯
-### Hello!🥳
-### My name is Vladislav.😜
-### I'm a C++/C# developer🤯
-### I am working on anonymous messenger. 👻
-### MAIL: MaxronOT@protonmail.com
-### https://PavlovPVz.github.io/
-### +17086698377 WhatsApp
-### telegram @MaxronCod
+
 <!--
 **PavlovPVz/PavlovPVz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
